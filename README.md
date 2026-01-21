@@ -1,6 +1,6 @@
 # jive-gen
 
-Interactive English to Jive Translator
+Interactive English to Jive/Klingon Translator
 
 ## License
 GNU General Public License v3.0  
